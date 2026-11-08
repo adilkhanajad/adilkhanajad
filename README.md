@@ -171,14 +171,14 @@ A specialized digital platform connecting farmers, machinery vendors, and servic
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/stacksolution">
+  <a href="https://github.com/adilkhanajad">
     <img width="49%"
-      src="https://github-stats-extended.vercel.app/api?username=stacksolution&show_icons=true&theme=default&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api?username=adilkhanajad&show_icons=true&theme=default&hide_border=true"
       alt="GitHub Statistics"/>
   </a>
-  <a href="https://github.com/stacksolution">
+  <a href="https://github.com/adilkhanajad">
     <img width="49%"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=stacksolution&layout=compact&langs_count=6&theme=default&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=adilkhanajad&layout=compact&langs_count=6&theme=default&hide_border=true"
       alt="Most Used Languages"/>
   </a>
 </p>
@@ -187,7 +187,7 @@ A specialized digital platform connecting farmers, machinery vendors, and servic
 
 <p align="center">
   <img width="100%"
-    src="https://streak-stats.demolab.com?user=stacksolution&theme=default&hide_border=true"
+    src="https://streak-stats.demolab.com?user=adilkhanajad&theme=default&hide_border=true"
     alt="GitHub Contribution Streak"/>
 </p>
 
